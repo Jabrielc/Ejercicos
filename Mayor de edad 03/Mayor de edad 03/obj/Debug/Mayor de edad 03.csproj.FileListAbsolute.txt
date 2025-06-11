@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor de edad 03\Mayor de edad 03\bin\Debug\Mayor de edad 03.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor de edad 03\Mayor de edad 03\bin\Debug\Mayor de edad 03.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor de edad 03\Mayor de edad 03\bin\Debug\Mayor de edad 03.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor de edad 03\Mayor de edad 03\obj\Debug\Mayor de edad 03.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor de edad 03\Mayor de edad 03\obj\Debug\Mayor de edad 03.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor de edad 03\Mayor de edad 03\obj\Debug\Mayor de edad 03.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor de edad 03\Mayor de edad 03\obj\Debug\Mayor de edad 03.pdb
