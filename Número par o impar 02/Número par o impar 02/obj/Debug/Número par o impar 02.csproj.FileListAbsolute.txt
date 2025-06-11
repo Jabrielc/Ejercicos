@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número par o impar 02\Número par o impar 02\bin\Debug\Número par o impar 02.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número par o impar 02\Número par o impar 02\bin\Debug\Número par o impar 02.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número par o impar 02\Número par o impar 02\bin\Debug\Número par o impar 02.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número par o impar 02\Número par o impar 02\obj\Debug\Número par o impar 02.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número par o impar 02\Número par o impar 02\obj\Debug\Número par o impar 02.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número par o impar 02\Número par o impar 02\obj\Debug\Número par o impar 02.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número par o impar 02\Número par o impar 02\obj\Debug\Número par o impar 02.pdb
