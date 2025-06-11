@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de calificaciones 014\Conversión de calificaciones 014\bin\Debug\Conversión de calificaciones 014.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de calificaciones 014\Conversión de calificaciones 014\bin\Debug\Conversión de calificaciones 014.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de calificaciones 014\Conversión de calificaciones 014\bin\Debug\Conversión de calificaciones 014.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de calificaciones 014\Conversión de calificaciones 014\obj\Debug\Conversión de calificaciones 014.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de calificaciones 014\Conversión de calificaciones 014\obj\Debug\Conversión de calificaciones 014.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de calificaciones 014\Conversión de calificaciones 014\obj\Debug\Conversión de calificaciones 014.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de calificaciones 014\Conversión de calificaciones 014\obj\Debug\Conversión de calificaciones 014.pdb

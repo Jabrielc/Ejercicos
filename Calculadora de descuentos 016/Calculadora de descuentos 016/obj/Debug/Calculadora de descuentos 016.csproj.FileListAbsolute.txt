@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Calculadora de descuentos 016\Calculadora de descuentos 016\bin\Debug\Calculadora de descuentos 016.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Calculadora de descuentos 016\Calculadora de descuentos 016\bin\Debug\Calculadora de descuentos 016.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Calculadora de descuentos 016\Calculadora de descuentos 016\bin\Debug\Calculadora de descuentos 016.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Calculadora de descuentos 016\Calculadora de descuentos 016\obj\Debug\Calculadora de descuentos 016.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Calculadora de descuentos 016\Calculadora de descuentos 016\obj\Debug\Calculadora de descuentos 016.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Calculadora de descuentos 016\Calculadora de descuentos 016\obj\Debug\Calculadora de descuentos 016.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Calculadora de descuentos 016\Calculadora de descuentos 016\obj\Debug\Calculadora de descuentos 016.pdb
