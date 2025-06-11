@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de horas a turnos 019\Conversión de horas a turnos 019\bin\Debug\Conversión de horas a turnos 019.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de horas a turnos 019\Conversión de horas a turnos 019\bin\Debug\Conversión de horas a turnos 019.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de horas a turnos 019\Conversión de horas a turnos 019\bin\Debug\Conversión de horas a turnos 019.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de horas a turnos 019\Conversión de horas a turnos 019\obj\Debug\Conversión de horas a turnos 019.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de horas a turnos 019\Conversión de horas a turnos 019\obj\Debug\Conversión de horas a turnos 019.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de horas a turnos 019\Conversión de horas a turnos 019\obj\Debug\Conversión de horas a turnos 019.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Conversión de horas a turnos 019\Conversión de horas a turnos 019\obj\Debug\Conversión de horas a turnos 019.pdb

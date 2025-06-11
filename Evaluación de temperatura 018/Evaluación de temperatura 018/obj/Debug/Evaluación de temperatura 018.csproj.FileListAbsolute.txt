@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Evaluación de temperatura 018\Evaluación de temperatura 018\bin\Debug\Evaluación de temperatura 018.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Evaluación de temperatura 018\Evaluación de temperatura 018\bin\Debug\Evaluación de temperatura 018.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Evaluación de temperatura 018\Evaluación de temperatura 018\bin\Debug\Evaluación de temperatura 018.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Evaluación de temperatura 018\Evaluación de temperatura 018\obj\Debug\Evaluación de temperatura 018.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Evaluación de temperatura 018\Evaluación de temperatura 018\obj\Debug\Evaluación de temperatura 018.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Evaluación de temperatura 018\Evaluación de temperatura 018\obj\Debug\Evaluación de temperatura 018.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Evaluación de temperatura 018\Evaluación de temperatura 018\obj\Debug\Evaluación de temperatura 018.pdb
