@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor entre tres números 09\Mayor entre tres números 09\bin\Debug\Mayor entre tres números 09.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor entre tres números 09\Mayor entre tres números 09\bin\Debug\Mayor entre tres números 09.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor entre tres números 09\Mayor entre tres números 09\bin\Debug\Mayor entre tres números 09.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor entre tres números 09\Mayor entre tres números 09\obj\Debug\Mayor entre tres números 09.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor entre tres números 09\Mayor entre tres números 09\obj\Debug\Mayor entre tres números 09.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor entre tres números 09\Mayor entre tres números 09\obj\Debug\Mayor entre tres números 09.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Mayor entre tres números 09\Mayor entre tres números 09\obj\Debug\Mayor entre tres números 09.pdb

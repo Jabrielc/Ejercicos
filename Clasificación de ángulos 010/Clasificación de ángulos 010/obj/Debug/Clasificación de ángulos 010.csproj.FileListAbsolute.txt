@@ -1,0 +1,7 @@
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Clasificación de ángulos 010\Clasificación de ángulos 010\bin\Debug\Clasificación de ángulos 010.exe.config
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Clasificación de ángulos 010\Clasificación de ángulos 010\bin\Debug\Clasificación de ángulos 010.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Clasificación de ángulos 010\Clasificación de ángulos 010\bin\Debug\Clasificación de ángulos 010.pdb
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Clasificación de ángulos 010\Clasificación de ángulos 010\obj\Debug\Clasificación de ángulos 010.csproj.AssemblyReference.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Clasificación de ángulos 010\Clasificación de ángulos 010\obj\Debug\Clasificación de ángulos 010.csproj.CoreCompileInputs.cache
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Clasificación de ángulos 010\Clasificación de ángulos 010\obj\Debug\Clasificación de ángulos 010.exe
+C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Clasificación de ángulos 010\Clasificación de ángulos 010\obj\Debug\Clasificación de ángulos 010.pdb
