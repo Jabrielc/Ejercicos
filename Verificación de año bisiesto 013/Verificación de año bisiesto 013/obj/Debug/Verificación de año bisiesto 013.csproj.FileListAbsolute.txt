@@ -1,7 +1,0 @@
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Verificación de año bisiesto 013\Verificación de año bisiesto 013\bin\Debug\Verificación de año bisiesto 013.exe.config
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Verificación de año bisiesto 013\Verificación de año bisiesto 013\bin\Debug\Verificación de año bisiesto 013.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Verificación de año bisiesto 013\Verificación de año bisiesto 013\bin\Debug\Verificación de año bisiesto 013.pdb
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Verificación de año bisiesto 013\Verificación de año bisiesto 013\obj\Debug\Verificación de año bisiesto 013.csproj.AssemblyReference.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Verificación de año bisiesto 013\Verificación de año bisiesto 013\obj\Debug\Verificación de año bisiesto 013.csproj.CoreCompileInputs.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Verificación de año bisiesto 013\Verificación de año bisiesto 013\obj\Debug\Verificación de año bisiesto 013.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Verificación de año bisiesto 013\Verificación de año bisiesto 013\obj\Debug\Verificación de año bisiesto 013.pdb
