@@ -1,7 +1,0 @@
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Día de la semana 07\Día de la semana 07\bin\Debug\Día de la semana 07.exe.config
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Día de la semana 07\Día de la semana 07\bin\Debug\Día de la semana 07.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Día de la semana 07\Día de la semana 07\bin\Debug\Día de la semana 07.pdb
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Día de la semana 07\Día de la semana 07\obj\Debug\Día de la semana 07.csproj.AssemblyReference.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Día de la semana 07\Día de la semana 07\obj\Debug\Día de la semana 07.csproj.CoreCompileInputs.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Día de la semana 07\Día de la semana 07\obj\Debug\Día de la semana 07.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Día de la semana 07\Día de la semana 07\obj\Debug\Día de la semana 07.pdb
