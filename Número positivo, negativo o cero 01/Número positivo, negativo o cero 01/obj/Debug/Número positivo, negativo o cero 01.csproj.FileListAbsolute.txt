@@ -1,7 +1,0 @@
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número positivo, negativo o cero 01\Número positivo, negativo o cero 01\bin\Debug\Número positivo, negativo o cero 01.exe.config
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número positivo, negativo o cero 01\Número positivo, negativo o cero 01\bin\Debug\Número positivo, negativo o cero 01.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número positivo, negativo o cero 01\Número positivo, negativo o cero 01\bin\Debug\Número positivo, negativo o cero 01.pdb
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número positivo, negativo o cero 01\Número positivo, negativo o cero 01\obj\Debug\Número positivo, negativo o cero 01.csproj.AssemblyReference.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número positivo, negativo o cero 01\Número positivo, negativo o cero 01\obj\Debug\Número positivo, negativo o cero 01.csproj.CoreCompileInputs.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número positivo, negativo o cero 01\Número positivo, negativo o cero 01\obj\Debug\Número positivo, negativo o cero 01.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Número positivo, negativo o cero 01\Número positivo, negativo o cero 01\obj\Debug\Número positivo, negativo o cero 01.pdb
