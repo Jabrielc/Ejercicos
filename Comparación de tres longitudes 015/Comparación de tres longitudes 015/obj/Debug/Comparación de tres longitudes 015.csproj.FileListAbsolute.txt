@@ -1,7 +1,0 @@
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Comparación de tres longitudes 015\Comparación de tres longitudes 015\bin\Debug\Comparación de tres longitudes 015.exe.config
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Comparación de tres longitudes 015\Comparación de tres longitudes 015\bin\Debug\Comparación de tres longitudes 015.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Comparación de tres longitudes 015\Comparación de tres longitudes 015\bin\Debug\Comparación de tres longitudes 015.pdb
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Comparación de tres longitudes 015\Comparación de tres longitudes 015\obj\Debug\Comparación de tres longitudes 015.csproj.AssemblyReference.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Comparación de tres longitudes 015\Comparación de tres longitudes 015\obj\Debug\Comparación de tres longitudes 015.csproj.CoreCompileInputs.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Comparación de tres longitudes 015\Comparación de tres longitudes 015\obj\Debug\Comparación de tres longitudes 015.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Comparación de tres longitudes 015\Comparación de tres longitudes 015\obj\Debug\Comparación de tres longitudes 015.pdb
