@@ -1,7 +1,0 @@
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Tipo de triángulo 017\Tipo de triángulo 017\bin\Debug\Tipo de triángulo 017.exe.config
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Tipo de triángulo 017\Tipo de triángulo 017\bin\Debug\Tipo de triángulo 017.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Tipo de triángulo 017\Tipo de triángulo 017\bin\Debug\Tipo de triángulo 017.pdb
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Tipo de triángulo 017\Tipo de triángulo 017\obj\Debug\Tipo de triángulo 017.csproj.AssemblyReference.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Tipo de triángulo 017\Tipo de triángulo 017\obj\Debug\Tipo de triángulo 017.csproj.CoreCompileInputs.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Tipo de triángulo 017\Tipo de triángulo 017\obj\Debug\Tipo de triángulo 017.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Tipo de triángulo 017\Tipo de triángulo 017\obj\Debug\Tipo de triángulo 017.pdb
