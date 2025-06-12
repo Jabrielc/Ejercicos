@@ -1,7 +1,0 @@
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Descuento por edad 07\Descuento por edad 07\bin\Debug\Descuento por edad 07.exe.config
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Descuento por edad 07\Descuento por edad 07\bin\Debug\Descuento por edad 07.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Descuento por edad 07\Descuento por edad 07\bin\Debug\Descuento por edad 07.pdb
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Descuento por edad 07\Descuento por edad 07\obj\Debug\Descuento por edad 07.csproj.AssemblyReference.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Descuento por edad 07\Descuento por edad 07\obj\Debug\Descuento por edad 07.csproj.CoreCompileInputs.cache
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Descuento por edad 07\Descuento por edad 07\obj\Debug\Descuento por edad 07.exe
-C:\Users\Jabriel\Desktop\Program de aplicaciones\20 Ejercicios if y else y Switch,\Descuento por edad 07\Descuento por edad 07\obj\Debug\Descuento por edad 07.pdb
